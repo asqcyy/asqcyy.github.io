@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0 50px; /* Default padding for PC */
+    padding: 0 50px;
     background-color: #1c1c1c;
 }
  
@@ -24,11 +24,11 @@ main {
  
 @media (max-width: 768px) {
     body {
-        padding: 0 20px; /* Adjusted padding for mobile devices */
+        padding: 0 20px;
     }
     .bundles {
         grid-template-columns: 1fr;
-        gap: 10px; /* Optionally adjust gap for tighter spacing on mobile */
+        gap: 10px;
     }
 }
  
