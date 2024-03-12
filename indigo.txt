@@ -1,6 +1,5 @@
-[IG: @asqcyyy]
-[DM FOR FREE REMOVAL]
-
+[CONTACT FOR FREE REMOVAL]
+[https://asqcy.com/contact.txt]
 
 
 {"id": "612f74cdc6254eb687deeedfa7969e70", "displayName": "Zynono", "externalAuths": {"xbl": {"accountId": "612f74cdc6254eb687deeedfa7969e70", "type": "xbl", "externalAuthIdType": "xuid", "externalDisplayName": "Zyno124", "authIds": []}, "psn": {"accountId": "612f74cdc6254eb687deeedfa7969e70", "type": "psn", "externalAuthId": "2307445087535512413", "externalAuthIdType": "psn_user_id", "externalDisplayName": "Vakyfn", "authIds": [{"id": "2307445087535512413", "type": "psn_user_id"}]}}}
